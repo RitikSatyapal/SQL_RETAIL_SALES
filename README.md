@@ -44,7 +44,7 @@ CREATE TABLE retail (
 
 The following SQL queries were developed to answer specific business questions:
 
-1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
+1. **Write a SQL query to retrieve all columns for sales made on '2023-05-23**:
 ```sql
 SELECT * FROM retail 
 WHERE sale_date = '2023-05-23';
